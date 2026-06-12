@@ -276,3 +276,10 @@ coverage/
 
 # TypeScript
 *.tsbuildinfo
+
+# ==================== Core Dump Files ====================
+# Core dump files (program crash dumps)
+core
+core.*
+*.core
+*.stackdump
